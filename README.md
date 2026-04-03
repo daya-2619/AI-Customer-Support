@@ -5,6 +5,11 @@ An **intelligent, production-ready customer support chatbot** powered by **Retri
 🚀 Designed to simulate real-world enterprise customer support systems with **order tracking, automation, and contextual intelligence**.
 
 ---
+<img width="1912" height="919" alt="Screenshot 2026-04-04 004026" src="https://github.com/user-attachments/assets/059a9678-0e1c-42f5-95b0-9f35a8c785e6" />
+
+<img width="1906" height="903" alt="Screenshot 2026-04-04 004146" src="https://github.com/user-attachments/assets/d1f3d436-4258-4da1-86c5-a8a987e345fd" />
+
+
 
 ## 🌟 Features
 
