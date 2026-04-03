@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+PyPDF2
