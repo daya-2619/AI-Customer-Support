@@ -140,7 +140,7 @@ def chat(query: str, user_id: str = "101"):
 
             order = get_order(order_id)
 
-            _, _, status, location, eta = order
+            _, _, status, location, eta, _ = order
 
             response_text = f"""📦 Order #{order_id}
 🚚 Status: {status}

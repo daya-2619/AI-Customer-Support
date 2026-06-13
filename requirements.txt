@@ -4,7 +4,11 @@ requests
 python-dotenv
 openai
 langchain
+langchain-text-splitters
 langchain-community
 langchain-huggingface
 faiss-cpu
 PyPDF2
+deep-translator
+streamlit
+sentence-transformers
